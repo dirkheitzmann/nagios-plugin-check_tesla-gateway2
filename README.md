@@ -6,9 +6,6 @@
 
 Nagios plugin to check on Tesla Gateway2 and, using this, Powerwall2
 
-With the values and the status, performance values will be provided too. 
-Using these performance values, it is easy to provide long-term statistics.
-
 
 ### Installation
 
